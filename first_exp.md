@@ -9,3 +9,5 @@
 * git add
 * git commit -m "message"
 * git log
+* git checkout
+* git diff
