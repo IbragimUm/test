@@ -43,6 +43,5 @@ GIT - Распределённая система управления верс�
 * git branch
 * git checkout branch_name
 * git checkout commit_name
-* git 
 
 ![eldenring](eldenring.jpg)
