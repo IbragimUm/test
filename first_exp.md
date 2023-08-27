@@ -41,7 +41,8 @@ GIT - Распределённая система управления верс�
 ### Команды 2-го семинара 
 
 * git branch
-![eldenring](eldenring.jpg)
 * git checkout branch_name
 * git checkout commit_name
 * git 
+
+![eldenring](eldenring.jpg)
